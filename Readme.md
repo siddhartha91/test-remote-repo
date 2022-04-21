@@ -1,1 +1,1 @@
-This is a initial release of my index.html page.
+This is an initial release of my index.html page.
